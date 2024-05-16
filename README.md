@@ -21,7 +21,7 @@ This GitHub will list several papers that align with my interests. I will post a
 
 ## Continual learning
 - ![Amortizing intractable inference in large language models](https://openreview.net/forum?id=Ouj6p4ca60)
-- 
+- ![Cross-lingual Continual Learning](https://aclanthology.org/2023.acl-long.217/)
 
 ## Nice Addition
 - ![A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
