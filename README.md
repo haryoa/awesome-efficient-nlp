@@ -7,10 +7,18 @@ This GitHub will list several papers that align with my interests. I will post a
 ## Language Model Training Objective 
 
 - [Better & Faster Large Language Models via Multi-token Prediction](https://arxiv.org/abs/2404.19737)
+- [Should You Mask 15% in Masked Language Modeling?](https://arxiv.org/abs/2202.08005)
 - [Frustratingly Simple Pretraining Alternatives to Masked Language Modeling](https://arxiv.org/abs/2109.01819)
 - [Pre-Training Transformers as Energy-Based Cloze Models](https://arxiv.org/abs/2012.08561)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)
-
+- [How does the pre-training objective affect what large language models learn about linguistic properties?](https://arxiv.org/abs/2203.10415)
+- [How does the task complexity of masked pretraining objectives affect downstream performance?](https://arxiv.org/abs/2305.10992)
+- [How does the pre-training objective affect what large language models learn about linguistic properties?](https://arxiv.org/abs/2310.17271)
+- [On the utility of enhancing BERT syntactic bias with Token Reordering Pretraining](https://arxiv.org/abs/2203.10415)
+- [Instance Regularization for Discriminative Language Model Pre-training](https://arxiv.org/abs/2210.05471)
+- [Language model pre-training on true negatives](https://ojs.aaai.org/index.php/AAAI/article/view/26639)
+  
+  
 ## Knowledge Distillation
 - [Improved Knowledge Distillation for Pre-trained Language Models via Knowledge Selection](https://aclanthology.org/2022.findings-emnlp.464/)
 - [Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method](https://aclanthology.org/2023.findings-acl.614/)
