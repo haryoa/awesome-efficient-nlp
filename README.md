@@ -20,6 +20,7 @@ This GitHub will list several papers that align with my interests. I will post a
   
   
 ## Knowledge Distillation
+- [Revisiting Knowledge Distillation for Autoregressive Language Models](https://arxiv.org/abs/2402.11890)
 - [Improved Knowledge Distillation for Pre-trained Language Models via Knowledge Selection](https://aclanthology.org/2022.findings-emnlp.464/)
 - [Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method](https://aclanthology.org/2023.findings-acl.614/)
 
